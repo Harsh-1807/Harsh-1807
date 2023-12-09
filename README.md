@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)]()
+
 <h1 align="center">Hi 👋, I'm Harsh Bachhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Interested in AI</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🌱 I’m currently learning **C/Pyton/Java**
