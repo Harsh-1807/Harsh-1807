@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harsh bachhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh bachhav" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh_bachhav1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_bachhav1807" height="30" width="40" /></a>
+  <a href=https://medium.com/@nkharshbachhav target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="harshbachhav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
