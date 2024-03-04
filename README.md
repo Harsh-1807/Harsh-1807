@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 🤝 I’m looking for help with **Ai/ML**
-
-- 💬 Ask me about **C,ML**
-
 - 📫 How to reach me **nkharshbachhav@gmail.com**
 
 - ⚡ Fun fact **I like playing games :)**
