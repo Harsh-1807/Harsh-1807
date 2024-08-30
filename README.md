@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nkharshbachhav@gmail.com**
 
-- ⚡ Fun fact **I like playing games :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
